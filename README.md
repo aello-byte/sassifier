@@ -38,7 +38,7 @@ Download spaCy model for sentence segmentation
 
 ```bash
 poetry run python -m spacy download en_core_web_sm
-```bash
+```
 
 
 ## To-do
